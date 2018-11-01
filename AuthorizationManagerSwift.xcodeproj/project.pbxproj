@@ -13,6 +13,7 @@
 		8577555E218997A400DD7D2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8577555D218997A400DD7D2A /* Assets.xcassets */; };
 		85775561218997A400DD7D2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8577555F218997A400DD7D2A /* LaunchScreen.storyboard */; };
 		8577556C218997A400DD7D2A /* AuthorizationManagerSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8577556B218997A400DD7D2A /* AuthorizationManagerSwiftTests.swift */; };
+		85775577218997BF00DD7D2A /* AuthorizationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85775576218997BF00DD7D2A /* AuthorizationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		85775567218997A400DD7D2A /* AuthorizationManagerSwiftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AuthorizationManagerSwiftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8577556B218997A400DD7D2A /* AuthorizationManagerSwiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationManagerSwiftTests.swift; sourceTree = "<group>"; };
 		8577556D218997A400DD7D2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85775576218997BF00DD7D2A /* AuthorizationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				85775556218997A300DD7D2A /* AppDelegate.swift */,
 				85775558218997A300DD7D2A /* ViewController.swift */,
+				85775576218997BF00DD7D2A /* AuthorizationManager.swift */,
 				8577555A218997A300DD7D2A /* Main.storyboard */,
 				8577555D218997A400DD7D2A /* Assets.xcassets */,
 				8577555F218997A400DD7D2A /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			files = (
 				85775559218997A300DD7D2A /* ViewController.swift in Sources */,
 				85775557218997A300DD7D2A /* AppDelegate.swift in Sources */,
+				85775577218997BF00DD7D2A /* AuthorizationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

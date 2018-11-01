@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthorizationManagerSwift/ViewController.swift"
+            timestampString = "562757912.807912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "mic(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthorizationManagerSwift.ViewController.mic(Any) -&gt; ()"
+                  moduleName = "AuthorizationManagerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacky/%E6%96%87%E7%A8%BF/work/Repositorties/AuthorizationManagerSwift/AuthorizationManagerSwift/ViewController.swift"
+                  timestampString = "562753784.690719"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in AuthorizationManagerSwift.ViewController.mic(Any) -&gt; ()"
+                  moduleName = "AuthorizationManagerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jacky/%E6%96%87%E7%A8%BF/work/Repositorties/AuthorizationManagerSwift/AuthorizationManagerSwift/ViewController.swift"
+                  timestampString = "562753784.694105"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
